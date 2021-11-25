@@ -2,7 +2,7 @@
 
 <pre>
 @font-face {
-    font-family: 'ImcreSoojin';
+    font-family: 'BaskinRobbins';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/baskinrobbins/BaskinRobbinsRegular.eot');
@@ -13,7 +13,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'ImcreSoojin';
+    font-family: 'BaskinRobbins';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/baskinrobbins/BaskinRobbinsBold.eot');
