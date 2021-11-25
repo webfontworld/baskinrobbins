@@ -1,5 +1,6 @@
 # baskinrobbins
 
+<pre>
 @font-face {
     font-family: 'ImcreSoojin';
     font-weight: 400;
@@ -22,3 +23,4 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/baskinrobbins/BaskinRobbinsBold.ttf') format("truetype");
     font-display: swap;
 }
+</pre>
