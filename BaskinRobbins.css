@@ -1,22 +1,5 @@
 @font-face {
-    font-family: 'ImcreSoojin';
-    font-weight: 400;
-    font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/baskinrobbins/BaskinRobbinsRegular.woff2') format('woff');
-    font-display: swap;
-}
-@font-face {
-    font-family: 'ImcreSoojin';
-    font-weight: 700;
-    font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/baskinrobbins/BaskinRobbinsBold.woff2') format('woff');
-    font-display: swap;
-}
-
-
-/* 
-@font-face {
-    font-family: 'ImcreSoojin';
+    font-family: 'BaskinRobbins';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/baskinrobbins/BaskinRobbinsRegular.eot');
@@ -27,7 +10,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'ImcreSoojin';
+    font-family: 'BaskinRobbins';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/baskinrobbins/BaskinRobbinsBold.eot');
@@ -37,4 +20,4 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/baskinrobbins/BaskinRobbinsBold.ttf') format("truetype");
     font-display: swap;
 }
-*/
+
